@@ -7,7 +7,6 @@ Request class
 https://github.com/MashinaMashina/request
 
 Author:	https://vk.com/id174641510
-		https://www.nulled.cc/members/348417/
 
 08.10.2017
 		
